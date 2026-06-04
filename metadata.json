@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Classifier",
+  "description": "Multi-project portfolio featuring an Iris Classifier (KNN, Decision Tree, and Gemini botanist), EcoTelemetry IoT sensor wave simulation, and the Autonomous Research Terminal connected server-side with Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
